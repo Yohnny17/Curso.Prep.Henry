@@ -38,7 +38,7 @@ function suma(x, y) {
   let x = 3
   let y = 5
 
-   consol.log (x + y) 
+   consol.log (x ++ y) 
 }
 
 function resta(x, y) {
